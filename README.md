@@ -76,8 +76,10 @@
 
 -----
 
-[texto](link)
-
+[Alguns Desafios do tipo Maratona de Programação](https://github.com/andersonaoliveira/DesafiosURI)
+[Jogo War](https://github.com/andersonaoliveira/WarPython)
+[Jogo Cara a Cara](https://github.com/andersonaoliveira/GameCaraCaraPython)
+[Outros Jogos](https://github.com/andersonaoliveira/OutrosJogosPython)
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
 
