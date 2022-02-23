@@ -76,10 +76,10 @@
 
 -----
 
-[Alguns Desafios do tipo Maratona de Programação](https://github.com/andersonaoliveira/DesafiosURI)
-[Jogo War](https://github.com/andersonaoliveira/WarPython)
-[Jogo Cara a Cara](https://github.com/andersonaoliveira/GameCaraCaraPython)
-[Outros Jogos](https://github.com/andersonaoliveira/OutrosJogosPython)
+[Alguns Desafios do tipo Maratona de Programação](https://github.com/andersonaoliveira/DesafiosURI)<br>
+[Jogo War](https://github.com/andersonaoliveira/WarPython)<br>
+[Jogo Cara a Cara](https://github.com/andersonaoliveira/GameCaraCaraPython)<br>
+[Outros Jogos](https://github.com/andersonaoliveira/OutrosJogosPython)<br>
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
 
