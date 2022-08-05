@@ -66,6 +66,7 @@
 
 ## ALGUNS CERTIFICADOS
 
+- clique no link para ver meu respectivo certificado
 
 [Todos Certificados Alura.pdf](https://github.com/andersonaoliveira/andersonaoliveira/files/9265694/Todos.Certificados.Alura.pdf)
 <br>
@@ -212,9 +213,9 @@
 [Certificado do Curso Siape Folha - ENAP - 40 Horas.pdf](https://github.com/andersonaoliveira/andersonaoliveira/files/9265767/Certificado.do.Curso.Siape.Folha.-.ENAP.-.40.Horas.pdf)
 <br>
 [Certificado do Curso Sistema Eletrônico de Informações - SEI USAR - ENAP - 20 Horas.pdf](https://github.com/andersonaoliveira/andersonaoliveira/files/9265768/Certificado.do.Curso.Sistema.Eletronico.de.Informacoes.-.SEI.USAR.-.ENAP.-.20.Horas.pdf)
-<br>
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
+    
 -----
 
 Rio Grande, RS - Brasil, 2022.
