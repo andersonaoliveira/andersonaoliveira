@@ -14,7 +14,7 @@
 
 ## QUEM SOU EU
 
-* <p align='justify'>Olá, meu nome é Anderson Aguiar, sou desenvolvedor há pelo menos 12 anos, iniciei minha carreira como desenvolvedor de games. Atualmente sou estudante de Engenharia da Computação e de Análise e Desenvolvimento de Sistemas na FURG e no IFRS respectivamente.</p>
+* <p align='justify'>Busco novos desafios, novos conhecimentos e realização profissional. Acredito que posso contribuir de maneira significativa com meus conhecimentos, experiência e domínio de diversas linguagens e demais hard skills. Destaco que minhas principais qualidades são: resiliência, fácil adaptação, procura contínua por conhecimento e melhoria dos sistemas, comprometimento com resultados e grande foco na experiência e satisfação do cliente.</p>
 
 <br><div align="right">[Subir ao Início](#home)</div><br>
  
