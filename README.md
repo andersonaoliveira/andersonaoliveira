@@ -9,6 +9,7 @@
 </p>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andersonaoliveira)](https://git.io/streak-stats)
 
 <br><br>
 
