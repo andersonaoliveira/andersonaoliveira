@@ -8,9 +8,9 @@
     <a href="#alguns-certificados"> Alguns Certificados </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
 </div>
-<p align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andersonaoliveira)](https://git.io/streak-stats)
-</p>
+
 <br><br>
 
 ## QUEM SOU EU
