@@ -1,6 +1,6 @@
 <div align="center">
   <span id="home"></span><h1>Bem-vindo(a) ao Perfil de Anderson de Aguiar de Oliveira</h1>
-  <p>Desenvolvedor Java Backend | Spring Boot | Microsserviços | AWS</p>
+  <p>Engenheiro de Software Sênior | Java, Python, RoR | Backend | Microsserviços | Cloud</p>
 
   <p>
     <a href="https://linkedin.com/in/anderson-de-aguiar-de-oliveira" target="_blank">
