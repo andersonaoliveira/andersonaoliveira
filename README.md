@@ -1,5 +1,5 @@
 <div align="center">
-  <span id="top"></span><h1>Bem-vindo(a) ao Perfil de Anderson de Aguiar de Oliveira</h1>
+  <span id="home"></span><h1>Bem-vindo(a) ao Perfil de Anderson de Aguiar de Oliveira</h1>
   <p>Desenvolvedor Java Backend | Spring Boot | Microsserviços | AWS</p>
 
   <p>
@@ -39,6 +39,8 @@ Minha trajetória inclui uma bem-sucedida transição do Direito para a Tecnolog
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
+[⬆️ Voltar ao Início](#home)
+
 ---
 
 ## 🛠️ Minhas Competências
@@ -66,7 +68,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 * [Ruby on Rails](https://www.linkedin.com/posts/anderson-de-aguiar-de-oliveira_ror-ruby-rails-activity-6940474089820049408-Kq5C)
 * [XML](https://www.linkedin.com/posts/anderson-de-aguiar-de-oliveira_xml-api-avaliaaexaetodecompetaeanciasdolinkedin-activity-6940474205176008704-sU7G)
 
-<div align="right">[⬆️ Voltar ao Início](#top)</div>
+[⬆️ Voltar ao Início](#home)
 
 ---
 
@@ -99,7 +101,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 * Desenvolvimento de sistemas web com Java, Python e bancos relacionais.
 * Atividades relacionadas ao Ensino de Lógica de Programação.
 
-<div align="right">[⬆️ Voltar ao Início](#top)</div>
+[⬆️ Voltar ao Início](#home)
 
 ---
 
@@ -109,7 +111,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 
 * **Bacharelado em Direito** (Concluído - 2011)
 
-<div align="right">[⬆️ Voltar ao Início](#top)</div>
+[⬆️ Voltar ao Início](#home)
 
 ---
 
@@ -192,7 +194,7 @@ Clique no link para ver meu respectivo certificado:
 * [Certificado do Curso Sistema Eletrônico de Informações - SEI USAR - ENAP - 20 Horas.pdf](https://github.com/andersonaoliveira/andersonaoliveira/files/9265768/Certificado.do.Curso.Sistema.Eletronico.de.Informacoes.-.SEI.USAR.-.ENAP.-.20.Horas.pdf)
 
 
-<div align="right">[⬆️ Voltar ao Início](#top)</div>
+[⬆️ Voltar ao Início](#home)
 
 ---
 
