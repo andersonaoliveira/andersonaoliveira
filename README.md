@@ -19,7 +19,7 @@
     <a href="#minhas-competencias">Minhas Competências</a> &nbsp;•&nbsp;
     <a href="#experiencia-profissional">Experiência Profissional</a> &nbsp;•&nbsp;
     <a href="#formacao-academica">Formação Acadêmica</a> &nbsp;•&nbsp;
-    <a href="#certificados">Certificados</a>
+    <a href="#certificados-e-cursos">Certificados e Cursos</a>
   </p>
 </div>
 
@@ -28,8 +28,7 @@
 </p>
 
 ---
-
-## 🙋‍♂️ Quem Sou Eu
+## Quem Sou Eu
 
 Sou Anderson de Aguiar de Oliveira, um Desenvolvedor Java Backend com sólida experiência em Spring Boot, microsserviços e AWS. Sou especialista em arquitetura de microsserviços e aplicações escaláveis. Minha atuação é em times ágeis e multidisciplinares, focando na entrega de soluções performáticas e seguras.
 
@@ -43,7 +42,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ---
 
-## 🛠️ Minhas Competências
+## Minhas Competencias
 
 Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 
@@ -72,7 +71,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 
 ---
 
-## 💼 Experiência Profissional
+## Experiencia Profissional
 
 ### John Deere | Engenheiro de Software Sênior (Jan/2023 - Fev/2025)
 * Desenvolvimento de soluções Java com Spring Boot e arquitetura de microsserviços.
@@ -105,7 +104,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formacao Academica
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Concluído - 2024)
 
@@ -115,7 +114,7 @@ Clique na habilidade para ver meu respectivo selo de competência no LinkedIn:
 
 ---
 
-## 🏆 Certificados & Cursos
+## Certificados e Cursos
 
 Clique no link para ver meu respectivo certificado:
 
@@ -198,7 +197,7 @@ Clique no link para ver meu respectivo certificado:
 
 ---
 
-## 🌐 Informações Adicionais
+## Informações Adicionais
 
 * **Idiomas:** Inglês técnico avançado (com experiência como professor).
 
